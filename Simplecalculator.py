@@ -14,3 +14,7 @@ result = add(1,2)
 print(result)
 result = sub(5,3)
 print(result)
+
+def multiplication(num1,num2):
+    product = num1 * num2
+    print(product)
