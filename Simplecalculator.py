@@ -1,12 +1,12 @@
 # Python program for simple calculator
   
 # Function to add two numbers 
-def add(num1, num2):
-    result=num1+num2
+def add(y, z):
+    result=y+z
     return result
 
-def sub(a, b):
-    result=a-b
+def sub(c, d):
+    result=c-d
     return result
 
 
